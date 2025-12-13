@@ -151,5 +151,5 @@ This repository is intended for educational use only.
 
 ---
 
-Author: Embedded Systems Course Projects
+Author: Embedded Systems Course xBowtie
 
